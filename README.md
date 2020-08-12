@@ -25,4 +25,4 @@ Idiomas agregados en los cuales se puede traducir:
 
 # Licencia
 
-Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE.md) para detalles.
+Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) para detalles.
